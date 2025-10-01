@@ -51,3 +51,7 @@ CSV reports include:
 ## Using with Claude.ai
 
 The Python scripts can be run directly for basic font extraction. For enhanced data collection (filling in Description and Source fields), use `FONT-CHECKER.md` with Claude.ai to automatically research and enrich font metadata via web search.
+
+---
+
+Sponsored by [Pennebaker.com](https://pennebaker.com)

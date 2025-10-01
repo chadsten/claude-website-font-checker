@@ -37,13 +37,6 @@ Use the Python Playwright script at `browser_font_extractor.py` to extract all f
 
 **This method is reliable and works even when WebFetch fails due to bot protection.**
 
-### Fallback: Manual Browser MCP (If Playwright Fails)
-If the Playwright script fails, use browser MCP tools directly:
-1. Navigate to URL using `mcp__browsermcp__browser_navigate`
-2. Wait 3 seconds using `mcp__browsermcp__browser_wait`
-3. Take screenshot if needed for visual inspection
-4. Extract fonts manually using browser console
-
 ## Output Format
 
 ### Font Names List
