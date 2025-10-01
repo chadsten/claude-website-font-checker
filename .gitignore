@@ -1,0 +1,14 @@
+# Exclude .claude directory
+.claude/
+
+# Exclude Results directory and contents
+Results/
+
+# Exclude all .md files EXCEPT FONT-CHECKER.md
+*.md
+!FONT-CHECKER.md
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
