@@ -4,9 +4,10 @@
 # Exclude Results directory and contents
 Results/
 
-# Exclude all .md files EXCEPT FONT-CHECKER.md
+# Exclude all .md files EXCEPT FONT-CHECKER.md and README.md
 *.md
 !FONT-CHECKER.md
+!README.md
 
 # Python cache files
 __pycache__/
